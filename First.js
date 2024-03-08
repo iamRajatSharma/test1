@@ -1,21 +1,3 @@
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-console.log("cleaned file")
-
+console.log("First Line");
+console.log("Second Line");
+console.log("Third Line");
